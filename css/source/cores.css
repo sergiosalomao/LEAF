@@ -1,0 +1,96 @@
+:root {
+    --default: #6c757d;
+    --active: #007bff;
+    --info: #17a2b8;
+    --sucess: #28a745;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f1f1f1;
+    --dark: #343a40;
+    --white:#ffffff ;
+    --black:#020202 ;
+
+}
+
+.default {
+    color: var(--default) !important;
+}
+
+.active {
+    color: var(--active) !important;
+}
+
+.info {
+    color: var(--info) !important;
+}
+
+.sucess {
+    color: var(--sucess) !important;
+}
+
+.warning {
+    color: var(--warning) !important;
+}
+
+.danger {
+    color: var(--danger) !important;
+}
+
+.light {
+    color: var(--light) !important;
+}
+
+
+.dark {
+    color: var(--dark) !important;
+}
+
+
+.white {
+    color: var(--white) !important;
+}
+
+
+.black {
+    color: var(--black) !important;
+}
+
+.bg-default {
+    background-color: var(--default) !important;
+}
+
+.bg-active {
+    background-color: var(--active) !important;
+}
+
+.bg-info {
+    background-color: var(--info) !important;
+}
+
+.bg-sucess {
+    background-color: var(--sucess) !important;
+}
+
+.bg-warning {
+    background-color: var(--warning) !important;
+}
+
+.bg-danger {
+    background-color: var(--danger) !important;
+}
+
+.bg-light {
+    background-color: var(--light) !important;
+}
+
+.bg-dark {
+    background-color: var(--dark) !important;
+}
+
+.bg-white {
+    background-color: var(--white) !important;
+}
+
+.bg-black {
+    background-color: var(--black) !important;
+}

@@ -1,0 +1,30 @@
+.input-icon { position: relative; }
+.input-icon input { text-indent: 30px;}
+.input-icon .fa-search { 
+  position: absolute;
+  top: 15px;
+  left: 9px;
+  font-size: 20px;
+}
+
+.input-icon .fa-user { 
+  position: absolute;
+  top: 15px;
+  left: 9px;
+  font-size: 20px;
+}
+
+.input-icon .fa-envelope { 
+  position: absolute;
+  top: 15px;
+  left: 9px;
+  font-size: 20px;
+}
+
+
+.input-icon .fa-key { 
+  position: absolute;
+  top: 15px;
+  left: 9px;
+  font-size: 20px;
+}

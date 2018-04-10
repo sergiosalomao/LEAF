@@ -1,0 +1,77 @@
+
+@font-face {
+    font-family: OpenSan-regular;
+    src: url('../fonts/open-sans.regular.ttf');
+}
+
+@font-face {
+    font-family: OpenSan-light;
+    src: url('../fonts/open-sans.light.ttf');
+}
+
+@font-face {
+    font-family: OpenSan-bold;
+    src: url('../fonts/open-sans.bold.ttf');
+}
+
+@font-face {
+    font-family: OpenSan-italic;
+    src: url('../fonts/open-sans.italic.ttf');
+}
+
+/* Lista de classes Categoria Textos */
+
+.text-space-line-2 {
+    line-height: 2.0;
+}
+
+.text-space-line-3 {
+    line-height: 3.0;
+}
+
+.font-weight-normal {
+    font-weight: normal;
+}
+
+.font-weight-bold {
+    font-weight: bold;
+    font-family: OpenSan-bold;
+}
+
+.font-weight-light {
+    font-weight: lighter;
+    font-family: OpenSan-light;
+}
+
+.font-italic {
+    font-style: italic;
+    font-family: OpenSan-italic;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-lowercase {
+    text-transform: lowercase;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.text-capitalize {
+    text-transform: capitalize;
+}
