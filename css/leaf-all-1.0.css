@@ -366,14 +366,44 @@
     height:450px;
     position:absolute;
     top:0%;
-    left:50%;
+    left:52%;
     margin-top:150px;
     margin-left:-200px;
-    
-    
   }
 
- 
+
+@media (min-width: 576px) {
+    .boxspace.login {
+        top: -12%;
+    }
+}
+
+@media (min-width: 768px) {
+    .boxspace.login {
+        top: -12%;
+    }
+}
+
+@media (min-width: 992px) {
+    .boxspace.login {
+        top: -12%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1200px;
+    }
+}
+
+@media only screen
+and (max-width : 720px)
+and (max-height : 1280px) {
+    .boxspace.login {
+        top: -12%;
+    }
+}
+
 .btn {
     display: inline-block;
     font-weight: 400;
